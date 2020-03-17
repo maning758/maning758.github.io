@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maning758.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-17T11:13:37.888Z</updated>
+    <updated>2020-03-17T11:29:33.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maning758.github.io"/>
     <link rel="self" href="https://maning758.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://maning758.github.io/images/avatar.png</logo>
     <icon>https://maning758.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[便携式水质监测]]></title>
+        <id>https://maning758.github.io/post/bian-xi-shi-shui-zhi-jian-ce/</id>
+        <link href="https://maning758.github.io/post/bian-xi-shi-shui-zhi-jian-ce/">
+        </link>
+        <updated>2020-03-17T11:23:15.000Z</updated>
+        <content type="html"><![CDATA[<p>基于发光细菌法的高通量水质毒性检测系统</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://maning758.github.io/post/hello-gridea/</id>
